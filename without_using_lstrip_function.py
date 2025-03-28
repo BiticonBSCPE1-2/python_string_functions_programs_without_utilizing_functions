@@ -1,0 +1,1 @@
+# removes the string at the beginning of the string
